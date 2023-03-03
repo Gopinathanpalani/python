@@ -5,7 +5,7 @@ print("How are you")
 
 
 print("List our your hobbies")
-
+print("a+b")
 
 customer=input("Enter your favorite food")
 
